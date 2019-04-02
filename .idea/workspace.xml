@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f24a3da-39ce-437c-86a3-0c1e155d2440" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Component.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Stereo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+                <element signature="e#643#644#0" expanded="true" />
+                <element signature="e#703#704#0" expanded="true" />
+                <element signature="e#737#738#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MP3Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+              <folding>
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/IPlay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestMP3Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="543">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestSpeaker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CDPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding>
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/RecordDeck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="58" selection-start-column="58" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Radio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestRadio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="26" column="32" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/TestRadio.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestRecodeDeck.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCDPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IConnect.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestStereo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MP3Player.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestMP3Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Stereo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Speaker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestSpeaker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Component.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IPlay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CDPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Radio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RecordDeck.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StereoInterfaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StereoInterfaces" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="StereoInterfaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StereoInterfaces" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StereoInterfaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StereoInterfaces" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="StereoInterfaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StereoInterfaces" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StereoInterfaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StereoInterfaces" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="StereoInterfaces" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StereoInterfaces" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554214975261" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in com.codeclan.StereoInterfaces.StereoInterfaces.test (4)">
+    <configuration name="All in com.codeclan.StereoInterfaces.StereoInterfaces.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.StereoInterfaces.StereoInterfaces.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in com.codeclan.StereoInterfaces.StereoInterfaces.test (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.StereoInterfaces.StereoInterfaces.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in com.codeclan.StereoInterfaces.StereoInterfaces.test (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.StereoInterfaces.StereoInterfaces.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in com.codeclan.StereoInterfaces.StereoInterfaces.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.StereoInterfaces.StereoInterfaces.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStereo.getName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.StereoInterfaces.StereoInterfaces.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestStereo" />
+      <option name="METHOD_NAME" value="getName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in com.codeclan.StereoInterfaces.StereoInterfaces.test (4)" />
+        <item itemvalue="JUnit.All in com.codeclan.StereoInterfaces.StereoInterfaces.test" />
+        <item itemvalue="JUnit.All in com.codeclan.StereoInterfaces.StereoInterfaces.test (3)" />
+        <item itemvalue="JUnit.All in com.codeclan.StereoInterfaces.StereoInterfaces.test (2)" />
+        <item itemvalue="JUnit.TestStereo.getName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f24a3da-39ce-437c-86a3-0c1e155d2440" name="Default Changelist" comment="" />
+      <created>1554207634151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554207634151</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_com_codeclan_StereoInterfaces_StereoInterfaces_test_(2) - 2019.04.02 at 14h 38m 56s.xml">
+      <configuration name="All in com.codeclan.StereoInterfaces.StereoInterfaces.test (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_StereoInterfaces_StereoInterfaces_test_(3) - 2019.04.02 at 14h 47m 46s.xml">
+      <configuration name="All in com.codeclan.StereoInterfaces.StereoInterfaces.test (3)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStereo_canplayRecordDeck - 2019.04.02 at 14h 48m 11s.xml">
+      <configuration name="TestStereo.canplayRecordDeck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStereo_canPlayCDPlayer - 2019.04.02 at 14h 48m 15s.xml">
+      <configuration name="TestStereo.canPlayCDPlayer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStereo_canPlayCDPlayer - 2019.04.02 at 14h 48m 54s.xml">
+      <configuration name="TestStereo.canPlayCDPlayer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_StereoInterfaces_StereoInterfaces_test - 2019.04.02 at 14h 49m 03s.xml">
+      <configuration name="All in com.codeclan.StereoInterfaces.StereoInterfaces.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCDPlayer_canPlay - 2019.04.02 at 14h 49m 15s.xml">
+      <configuration name="TestCDPlayer.canPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_StereoInterfaces_StereoInterfaces_test_(1) - 2019.04.02 at 14h 52m 29s.xml">
+      <configuration name="All in com.codeclan.StereoInterfaces.StereoInterfaces.test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_StereoInterfaces_StereoInterfaces_test_(2) - 2019.04.02 at 15h 04m 36s.xml">
+      <configuration name="All in com.codeclan.StereoInterfaces.StereoInterfaces.test (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_StereoInterfaces_StereoInterfaces_test_(3) - 2019.04.02 at 15h 09m 57s.xml">
+      <configuration name="All in com.codeclan.StereoInterfaces.StereoInterfaces.test (3)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10658083" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.2807229" />
+      <window_info anchor="bottom" id="Messages" weight="0.32891566" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestRecodeDeck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestCDPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Speaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestStereo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestSpeaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestMP3Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MP3Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IPlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stereo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Radio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestRadio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CDPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RecordDeck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="58" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
